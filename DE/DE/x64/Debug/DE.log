@@ -1,0 +1,5 @@
+﻿  DE.cpp
+C:\Users\omarw\source\repos\DE\DE\DE.cpp(102,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\omarw\source\repos\DE\DE\DE.cpp(106,18): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\omarw\source\repos\DE\DE\DE.cpp(137,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  DE.vcxproj -> C:\Users\omarw\source\repos\DE\x64\Debug\DE.exe
